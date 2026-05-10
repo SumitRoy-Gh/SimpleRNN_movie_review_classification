@@ -1,4 +1,4 @@
-🎬 Movie Review Sentiment Classification using SimpleRNN
+###🎬 Movie Review Sentiment Classification using SimpleRNN
 
 A Deep Learning based NLP project that classifies IMDb movie reviews as Positive or Negative using a Simple Recurrent Neural Network (SimpleRNN) built with TensorFlow/Keras.
 
